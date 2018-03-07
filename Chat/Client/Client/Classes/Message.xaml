@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="Client.Classes.Message"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Client.Classes"
+             mc:Ignorable="d"
+             d:DesignWidth="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            
+            <TextBlock x:Name="txtblockNickname"
+                       Text="Rofler"
+                       FontSize="16"
+                       FontWeight="SemiBold"
+                       Foreground="#FF32af0a"
+                       Margin="10, 10, 5, 0"/>
+
+            <TextBlock x:Name="txtblockTime"
+                       Grid.Column="1"
+                       Text="12:51"
+                       FontSize="16"
+                       Foreground="Black"
+                       Opacity="0.3"
+                       Margin="5, 10, 10, 0"/>
+        </Grid>
+        <TextBlock x:Name="txtblockMessage"
+                   Grid.Row="1"
+                   Text="Far concluded not his extremity. Want four we face an he gate. On he of played he ladies answer little though nature. Blessing oh do pleasure as so formerly."
+                   TextWrapping="Wrap"
+                   FontSize="14"
+                   Foreground="Black"
+                   Margin="10, 0, 10, 10"/>
+
+    </Grid>
+</UserControl>

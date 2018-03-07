@@ -1,0 +1,6 @@
+D:\Education\БГУИР КСиС\Chat\SystemCommands\SystemCommands\bin\Debug\SystemCommands.dll
+D:\Education\БГУИР КСиС\Chat\SystemCommands\SystemCommands\bin\Debug\SystemCommands.pdb
+D:\Education\БГУИР КСиС\Chat\SystemCommands\SystemCommands\obj\Debug\SystemCommands.csprojResolveAssemblyReference.cache
+D:\Education\БГУИР КСиС\Chat\SystemCommands\SystemCommands\obj\Debug\SystemCommands.csproj.CoreCompileInputs.cache
+D:\Education\БГУИР КСиС\Chat\SystemCommands\SystemCommands\obj\Debug\SystemCommands.dll
+D:\Education\БГУИР КСиС\Chat\SystemCommands\SystemCommands\obj\Debug\SystemCommands.pdb
