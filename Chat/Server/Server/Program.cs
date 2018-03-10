@@ -25,7 +25,7 @@ namespace ServerApp
 
     class UserThread
     {
-        private const string HISTORY_FILE = "history.ini";
+        private const string HISTORY_FILE = "messages.story";
 
         private bool isConnect = false;
 

@@ -99,7 +99,7 @@ namespace Client.Classes
             // Устанавливаем удаленную точку для сокета
             try
             {
-                IPHostEntry ipHost = Dns.GetHostEntry("DESKTOP-GNTLAUI");
+                IPHostEntry ipHost = Dns.GetHostEntry(hostNameOrAddress);
                 IPAddress ipAddr = ipHost.AddressList[0];
                 IPEndPoint ipEndPoint = new IPEndPoint(ipAddr, port);
 

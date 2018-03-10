@@ -7,3 +7,13 @@ D:\Education\БГУИР КСиС\Chat\Server\Server\obj\Debug\Server.pdb
 D:\Education\БГУИР КСиС\Chat\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
 D:\Education\БГУИР КСиС\Chat\Server\Server\bin\Debug\SystemCommands.dll
 D:\Education\БГУИР КСиС\Chat\Server\Server\bin\Debug\SystemCommands.pdb
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\bin\Debug\Server.exe.config
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\bin\Debug\Server.exe
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\bin\Debug\Server.pdb
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\bin\Debug\SystemCommands.dll
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\bin\Debug\SystemCommands.pdb
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\obj\Debug\Server.exe
+D:\Education\БГУИР КСиС\Git\Messenger\Chat\Server\Server\obj\Debug\Server.pdb
